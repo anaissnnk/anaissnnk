@@ -7,7 +7,8 @@
     🎨 Pixel art • Visual Novel Writing
     🗩 French, English, German, Japanese and Dutch
     🧵 Embroidery • Baking • DnD • Craft
-</pre>
+</pre><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,express,discord,notion"/>
 <br><br>
 
 <img src="https://github.com/anaissnnk/anaissnnk/assets/146928546/cc66c7c0-ef0c-43e0-80f6-108c8329e316"/><br>
