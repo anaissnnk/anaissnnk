@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,express,php,discord,notion"/>
 <br><br>
 
-<pre><b>CURRENT STATUS:</b> As I spent the last months learning on Trailhead, my activity on github has lowered.<br> I'm working to get back asap 🐢</pre>
+<pre><b>CURRENT STATUS:</b> As I spent last month learning on Trailhead, my activity on github has lowered.<br> I'm working to get back asap 🐢</pre>
 
 <a href="https://www.salesforce.com/trailblazer/profile">Find me on trailhead ☁️</a>
 
