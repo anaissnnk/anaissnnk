@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/anaissnnk/anaissnnk/assets/146928546/82c2ba4e-d996-4a12-a628-e8b9496b856e"/><br>
-<img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=15&duration=4000&pause=100&color=F79077&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Ana%C3%AFs!;I'm+a+Salesforce+trainee+and+craft+lover." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=15&duration=4000&pause=100&color=9999ff&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Ana%C3%AFs!;I'm+a+Salesforce+trainee+and+craft+lover." alt="Typing SVG"/>
 <br><br>
 <pre>
     <img src="https://github.com/anaissnnk/anaissnnk/assets/146928546/9abfa0b9-592d-454d-b71f-7945f132001d" align="right" width="15%"/>
