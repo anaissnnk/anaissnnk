@@ -10,7 +10,7 @@
     🧵 Embroidery • Baking • DnD • Craft<br>
     Fun fact: The blue lady on the right is Emi, my DnD character.
 </pre><br>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,express,discord,notion"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,express,php,discord,notion"/>
 <br><br>
 
 <pre><b>CURRENT STATUS:</b> As I spent the last months learning on Trailhead, my activity on github has lowered.<br> I'm working to get back asap 🐢</pre>
